@@ -1,25 +1,20 @@
-# ReduxSimpleStarter
+# react-forecast-app
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This app is based on [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter).
+Big thanks to [Stephen Grider](https://github.com/StephenGrider) for his amazing course on redux.
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
+After cloning the repo, go into the project folder and run :
 
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+```bash
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+### To Do
 
-```
-> npm install
-> npm start
-```
+* Add option the change country
+* Add option to chose the range of the days to get forecast to
+* Add option to channge metrics of Temperature, Pressure and Humidity
+* Lot more ...
